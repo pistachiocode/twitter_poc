@@ -1,0 +1,7 @@
+src/twitter_poc_classes.py
+*.log
+*.json
+*.csv
+*.pyc
+.ipynb_checkpoints/
+Icon*
