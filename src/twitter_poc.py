@@ -4,7 +4,7 @@ import numpy as np
 import os
 import re
 import time
-from twitter_conf *
+from twitter_conf import *
 
 # -----------
 # FUNCTIONS
