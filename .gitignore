@@ -1,0 +1,13 @@
+!src/*
+!notebooks/*
+!doc/*
+!Readme.md
+!requirements.txt
+!*.xml
+!config.json
+*.log
+*.json
+*.csv
+*.pyc
+.ipynb_checkpoints/
+Icon*
