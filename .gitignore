@@ -1,4 +1,10 @@
-src/twitter_poc_classes.py
+!src/*
+!notebooks/*
+!doc/*
+!Readme.md
+!requirements.txt
+!*.xml
+!config.json
 *.log
 *.json
 *.csv
