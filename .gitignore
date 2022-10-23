@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 !src/*
 !notebooks/*
 !doc/*
@@ -5,6 +6,9 @@
 !requirements.txt
 !*.xml
 !config.json
+=======
+src/twitter_poc_classes.py
+>>>>>>> master
 *.log
 *.json
 *.csv
