@@ -4,7 +4,7 @@ from pathlib import Path
 
 class Config:
 
-    ROOT_DIR = Path(os.path.dirname(os.path.abspath(__file__))).parent.parent
+    ROOT_DIR = Path(os.path.dirname(os.path.abspath(__file__))).parent.parent / "config"
 
     #
     # Keywords search json
@@ -35,6 +35,6 @@ class Config:
     #
     # Formats
     #
-    DATE_FORMAT = '%Y-%m-%d'
-    TIME_FORMAT = '%H:%M:%S'
-    DATETIME_FORMAT = DATE_FORMAT+' '+TIME_FORMAT
+    DATE_FORMAT = "%Y-%m-%d"
+    TIME_FORMAT = "%H:%M:%S"
+    DATETIME_FORMAT = DATE_FORMAT + " " + TIME_FORMAT

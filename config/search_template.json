@@ -1,0 +1,16 @@
+{
+    "climate change": {
+        "keyword": "climate change",
+        "max_id": -1,
+        "since_id": 0,
+        "lang": "es",
+        "count": 1000
+    },
+    "climate emergency": {
+        "keyword": "climate emergency",
+        "max_id": -1,
+        "since_id": 0,
+        "lang": "es",
+        "count": 1000
+    }
+}
